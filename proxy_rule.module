@@ -1,5 +1,5 @@
 #!url=https://raw.githubusercontent.com/theload9638/shadowrocket_module/master/proxy_rule.module
-#!name=proxies_list
+#!name=proxies_rule_list
 #!desc=部分国外代理
 
 [Rule]

@@ -1,5 +1,5 @@
 #!url=https://raw.githubusercontent.com/theload9638/shadowrocket_module/master/direct_rule.module
-#!name=direct_list
+#!name=direct_rule_list
 #!desc=部分国内直连
 
 [Rule]

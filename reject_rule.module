@@ -1,5 +1,5 @@
 #!url=https://raw.githubusercontent.com/theload9638/shadowrocket_module/master/reject_rule.module
-#!name=reject_list
+#!name=reject_rule_list
 #!desc=部分去广告功能
 
 [Rule]
