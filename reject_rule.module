@@ -1,5 +1,6 @@
 #!url=
 #!name=reject_list
+#!desc=去广告
 
 [Rule]
 DOMAIN-SUFFIX,hjzndq.com,REJECT

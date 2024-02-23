@@ -1,5 +1,6 @@
 #!url=
 #!name=direct_list
+#!desc=国内直连
 
 [Rule]
 DOMAIN-SUFFIX,qhres.com,DIRECT
