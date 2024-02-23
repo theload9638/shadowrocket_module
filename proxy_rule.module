@@ -1,0 +1,16 @@
+#!url=
+#!name=proxies_list
+
+[Rule]
+DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
+DOMAIN,analyticsreporting.googleapis.com,PROXY
+
+
+
+
+
+
+
+
+
+
