@@ -1,0 +1,13 @@
+#!url=
+#!name=direct_list
+
+[Rule]
+USER-AGENT,coffeecorp*,DIRECT
+USER-AGENT,restaurant-mobile*,DIRECT
+DOMAIN,app.adjust.com,DIRECT
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+DOMAIN,dl.google.com,DIRECT
+DOMAIN,mtalk.google.com,DIRECT
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
+DOMAIN,analytics.strava.com,DIRECT
