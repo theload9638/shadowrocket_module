@@ -1,6 +1,6 @@
-#!url=
+#!url=https://raw.githubusercontent.com/theload9638/shadowrocket_module/master/reject_rule.module
 #!name=reject_list
-#!desc=去广告
+#!desc=部分去广告功能
 
 [Rule]
 DOMAIN-SUFFIX,hjzndq.com,REJECT
