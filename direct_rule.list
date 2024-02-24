@@ -1,4 +1,3 @@
-# url=https://raw.githubusercontent.com/theload9638/shadowrocket_module/master/direct_rule.list
 # desc=部分国内直连,不保证完全有效,有些域名可能失效
 
 DOMAIN-SUFFIX,lvmama.com
