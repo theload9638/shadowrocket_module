@@ -1,7 +1,7 @@
 #!url=https://raw.githubusercontent.com/theload9638/shadowrocket_module/master/urlwrite.module
 #!name=urlwirte_list
-#!desc=部分url重写
-
+#!desc=部分url重写 
+ 
 [URL Rewrite]
 ^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
 ^https?:\/\/(www.)?taobao\.com\/ https://taobao.com/ 302
