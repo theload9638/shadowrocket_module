@@ -1,0 +1,21 @@
+# https://raw.githubusercontent.com/theload9638/shadowrocket_module/master/speedAndIpForeign.list
+# 国外网站测试
+# 国外IP查询
+
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,speedtest.net
+
+DOMAIN,ip-score.com
+DOMAIN,ipinfo.io
+DOMAIN,ipwhois.app
+DOMAIN,api-ipv4.ip.sb
+DOMAIN,ip-api.com
+
+
+
+
+
+
