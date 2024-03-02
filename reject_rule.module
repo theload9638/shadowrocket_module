@@ -3,6 +3,24 @@
 #!desc=rules:77288,部分去广告功能
 
 [Rule]
+DOMAIN,h77tmawaa.cc929.top,REJECT
+DOMAIN,hjkjkhjk.welcr.cn,REJECT
+DOMAIN,kk2126083347.nobell.cn,REJECT
+DOMAIN,gchhf.jhf13jejo34jho32r003.com,REJECT
+DOMAIN,bu8tm0w9w.cc929.top,REJECT
+DOMAIN,vvfv81023.xn--3et559a2oe.xn--55qx5d,REJECT
+DOMAIN,dfbum.wiohu.cn,REJECT
+DOMAIN,dc860mifyx8pr.cloudfront.net,REJECT
+DOMAIN,asdox906522.xn--wlqs9j85c31f.xn--55qx5d,REJECT
+DOMAIN,gchhf.jhf13jejo34jho32r003.com,REJECT
+DOMAIN,2139066750.izxcyqq.cn,REJECT
+DOMAIN,ht46ee.xyz:9527,REJECT
+DOMAIN,euyo27234.xn--3et559a2oe.xn--55qx5d,REJECT
+DOMAIN,arawe595445.xn--54q482buudktk6vk.xn--55qx5d,REJECT
+DOMAIN,106.15.88.180:8001,REJECT
+DOMAIN,kk2213583024.nobell.cn,REJECT
+DOMAIN,qgon2008.xyz:5516,REJECT
+DOMAIN,kk1130363342.purefun.cn,REJECT
 DOMAIN-SUFFIX,postmedia.us.janrainsso.com,REJECT
 DOMAIN-SUFFIX,www.tanger.com.br,REJECT
 DOMAIN-SUFFIX,idohethisisathllea.com,REJECT
@@ -77293,3 +77311,5 @@ DOMAIN-SUFFIX,vvww-icloud.com,REJECT
 DOMAIN-SUFFIX,aroidsguide.com,REJECT
 DOMAIN,666.txerani.cn,REJECT
 DOMAIN,u6stmalnd.wbc7j3c.top,REJECT
+DOMAIN,2453453.rksgj.cn,REJECT
+DOMAIN,dftro.yourcrypto.cn,REJECT
