@@ -3,6 +3,7 @@
 #!desc=rules:77288,部分去广告功能
 
 [Rule]
+DOMAIN,wuc.ghdrr.com,REJECT
 DOMAIN-KEYWORD,jmnh281,REJECT
 DOMAIN-KEYWORD,vaks8fvmay,REJECT
 DOMAIN,h77tmawaa.cc929.top,REJECT
