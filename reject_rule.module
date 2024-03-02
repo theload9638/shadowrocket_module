@@ -77291,5 +77291,5 @@ DOMAIN-SUFFIX,d.omsnative.de,REJECT
 DOMAIN-SUFFIX,qnrscbotmsj.com,REJECT
 DOMAIN-SUFFIX,vvww-icloud.com,REJECT
 DOMAIN-SUFFIX,aroidsguide.com,REJECT
-DOMAIN-SUFFIX,666.txerani.cn,REJECT
-DOMAIN-SUFFIX,u6stmalnd.wbc7j3c.top,REJECT
+DOMAIN,666.txerani.cn,REJECT
+DOMAIN,u6stmalnd.wbc7j3c.top,REJECT
